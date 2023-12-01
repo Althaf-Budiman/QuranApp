@@ -21,6 +21,7 @@
             android:name=".presentation.quran.DetailSurahActivity"
             android:exported="false" />
         <activity
+            android:theme="@style/Theme.App.SplashScreenBase"
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
